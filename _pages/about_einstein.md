@@ -1,5 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Alex de Cock Buning, a researcher focused on computer systems and networks. My current work uses verification techniques to make LLM-driven network management and network code safe and reliable. I started my PhD at Universidad Carlos III de Madrid in 2025, and since December 2025 I've been a visiting researcher at the University of Washington, working with Ratul Mahajan. Before this, I worked on Horizon Europe projects on orchestration, networking and security for the IoT-edge-cloud continuum. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I like to code for fun, and when I'm not behind the computer, I enjoy climbing, hiking and playing music with other people.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
