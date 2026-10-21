@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -13,7 +12,7 @@ profile:
     <p>Computer Science & Networks Researcher</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -25,6 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<div style="font-size: 1.5rem; margin-bottom: 1rem;">{% social_links %}</div>
 
 I am Alex de Cock Buning, a researcher focused on computer systems and networks. My current work uses verification techniques to make LLM-driven network management and network code safe and reliable. I started my PhD at Universidad Carlos III de Madrid in 2025, and since December 2025 I've been a visiting researcher at the University of Washington, working with Ratul Mahajan. Before this, I worked on Horizon Europe projects on orchestration, networking and security for the IoT-edge-cloud continuum. 
 
