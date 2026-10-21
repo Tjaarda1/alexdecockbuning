@@ -236,7 +236,10 @@ exclude:
   - _teachings/
   - _posts/
   - _pages/blog.md
+  - _pages/books.md
+  - _pages/blog.md
   - _pages/profiles.md
+  - _pages/projects.md
   - docs/
   - Gemfile
   - Gemfile.lock
